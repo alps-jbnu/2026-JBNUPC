@@ -1,6 +1,5 @@
 # solutions_private Markdown
 
-`solutions_private`의 공식 해설 TeX 파일을 Markdown 형식으로 옮긴 폴더입니다.
 
 | 번호 | 문제 | 파일 |
 |---|---|---|
