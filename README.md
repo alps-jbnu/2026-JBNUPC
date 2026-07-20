@@ -1,5 +1,5 @@
 # 2026-JBNUPC
-
+전북대학교 ALPS 프로그래밍 경진대회
 
 ## 2026 JBNUPC 대회 운영진
 <a href="https://github.com/JC-arl"><img src="https://github.com/JC-arl.png" width="50" style="border-radius: 50%;"/></a>
@@ -17,6 +17,9 @@
 - 노광희
 - 서종호
 
+## 이전 대회 기록
+- [25JBNUPC](https://github.com/alps-jbnu/25JBNUPC)
+- [24JBNUPC](https://github.com/alps-jbnu/24JBNUPC)
 ## 문의
 
 - **팀장**: hwang1535@jbnu.ac.kr
